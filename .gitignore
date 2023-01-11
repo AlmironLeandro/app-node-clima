@@ -1,2 +1,2 @@
-.env
-db/database.json
+node_modules/
+db/*
